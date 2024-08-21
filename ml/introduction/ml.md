@@ -1,5 +1,13 @@
 # ML
 
+**Definition:**
+
+* Science (and art) of programming computers so they can learn from data.
+* Field of study that gives computers the ability to learn without being explicitly programmed
+* A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
+
+
+
 * Find pattern in data
 * First we see the data and then decide which algorithm to be used
 *
