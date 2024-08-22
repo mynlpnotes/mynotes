@@ -13,6 +13,7 @@
     * [ML Challenges](ml/introduction/ml-challenges.md)
   * [Common Concepts](ml/common-concepts/README.md)
     * [Steps](ml/common-concepts/steps.md)
+    * [Handling Missing Values](ml/common-concepts/handling-missing-values.md)
   * [Linear Regression](ml/linear-regression/README.md)
     * [Performance Measure](ml/linear-regression/performance-measure/README.md)
       * [RMSE](ml/linear-regression/performance-measure/rmse.md)
