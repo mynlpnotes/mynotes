@@ -3,27 +3,28 @@
 * housing.head() -> To look at the top 5 rows
 *
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Info -> To get a quick description of the data, in particular the total number of rows, each attribute’s type, and the number of non-null value
 *
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+* Object means its a categorical variable
 * &#x20;housing.describe()
 *
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Stratified sampling:
 *   &#x20;
 
     <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-Discover and Visualize the Data to Gain Insights:
+**Discover and Visualize the Data to Gain Insights:**
 
 *
 
@@ -81,17 +82,52 @@ Looking for Correlations:
 *
 
     <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+* Notice that the output is a SciPy sparse matrix, instead of a NumPy array
+*
 
-Notice that the output is a SciPy sparse matrix, instead of a NumPy array
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+* You can get the list of categories using the encoder’s categories\_ instance variable:
+*
 
-![](file:///C:/Users/hitesh.wankhede/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_144c/AC/Temp/msohtmlclip1/01/clip\_image004.jpg)
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-You can get the list of categories using the encoder’s categories\_ instance variable:
+**Custom Transformers:**
 
-![](file:///C:/Users/hitesh.wankhede/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_144c/AC/Temp/msohtmlclip1/01/clip\_image006.jpg)
+* Create a class and implement three methods: fit() (returning self), transform(), and fit\_transform()
 
-Custom Transformers:
+Transformation Pipelines:
 
-Create a class and implement three methods: fit() (returning self), transform(), and fit\_transform()
+*
 
-![](file:///C:/Users/hitesh.wankhede/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_144c/AC/Temp/msohtmlclip1/01/clip\_image008.jpg)
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+* All but the last estimator must be transformers (i.e., they must have a fit\_transform() method)
+* When you call the pipeline’s fit() method, it calls fit\_transform() sequentially on all transformers, passing the output of each call as the parameter to the next call until it reaches the final estimator, for which it calls the fit() method.
+* Column transformer to apply the transformation on numerical as well as categorical data
+*
+
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+* Note that the OneHotEncoder returns a sparse matrix, while the num\_pipeline returns a dense matrix.&#x20;
+* When there is such a mix of sparse and dense matrices, the ColumnTransformer estimates the density of the final matrix (i.e., the ratio of nonzero cells), and it returns a sparse matrix if the density is lower than a given threshold (by default, sparse\_threshold=0.3
+* Instead of using a transformer, you can specify the string "drop" if you want the columns to be dropped, or you can specify "passthrough" if you want the columns to be left untouched. By default, the remaining columns (i.e., the ones that were not listed) will be dropped
+
+**Select and Train a model:**
+
+*
+
+    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+*
+
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+*
+
+    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+* The main ways to fix underfitting are to select a more powerful model, to feed the training algorithm with better features, or to reduce the constraints on the model
+*
+
+    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+*
+
+    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+*
+
+    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
