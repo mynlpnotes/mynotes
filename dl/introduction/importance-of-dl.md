@@ -1,6 +1,6 @@
 # Importance of DL
 
-* Performance of older ML algo is saturated
+* <mark style="color:purple;background-color:purple;">**Performance of older ML algo is saturated, whereas DL with new algo is able to give better performance**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

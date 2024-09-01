@@ -5,8 +5,8 @@
 * Also there can be lot of uncertainty like some human can come in between n all
 * So we need AI to handle such situation
 * Inside AI we have ML
-* ML solves more of structured data
-* But if data is image/video/audio unstructured data, then we use DL
+* <mark style="color:purple;background-color:purple;">**ML solves more of structured data**</mark>
+* But if data is image/video/audio <mark style="color:purple;background-color:purple;">**unstructured data, then we use DL**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
