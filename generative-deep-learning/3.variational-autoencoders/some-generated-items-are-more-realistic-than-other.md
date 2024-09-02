@@ -2,9 +2,9 @@
 
 Observations about the overall distribution of points in the latent space:
 
-1. Some clothing items are represented over a very small area and others over a much larger area.
+1. Some clothing <mark style="color:purple;background-color:purple;">**items are represented over a very small area and others over a much larger area.**</mark>
 2. The distribution is not symmetrical about the point (0, 0), or bounded. For example, there are far more points with positive y-axis values than negative, and some points even extend to a y-axis value > 8.
-3. There are large gaps between colors containing few points
+3. There are <mark style="color:purple;background-color:purple;">**large gaps**</mark> between colors containing few points
 
 Overlay the latent space with images of decoded points on a grid
 

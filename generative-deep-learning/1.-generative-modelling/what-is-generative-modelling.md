@@ -1,6 +1,6 @@
 # What is Generative Modelling
 
-* Generative modeling is a branch of machine learning that involves training a model to produce new data that is similar to a given dataset.
+* Generative modeling is a branch of machine learning that involves <mark style="color:purple;background-color:purple;">**training a model to produce new data that is similar to a given dataset.**</mark>
 *   &#x20;
 
     <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

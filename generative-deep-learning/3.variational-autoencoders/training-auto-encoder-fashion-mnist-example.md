@@ -7,7 +7,7 @@
 * In Decoder, we use convolutional transpose layer
 * We use mirror image of encoder
 * By stacking these layers, we can gradually expand the size of each layer, using strides of 2, until we get back to the original image dimension of 32 × 32
-* Model that takes an image and passes it through the encoder and back out through the decoder to generate a reconstruction of the original image
+* Model takes an image and passes it through the encoder and back out through the decoder to generate a reconstruction of the original image
 
 ```python
 # Loading the data

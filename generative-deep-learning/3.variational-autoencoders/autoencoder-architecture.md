@@ -1,12 +1,12 @@
 # Autoencoder Architecture
 
-**Encoder:**&#x20;
+<mark style="color:purple;background-color:purple;">**Encoder:**</mark>&#x20;
 
-* Network that compresses high-dimensional input data such as an image into a lower-dimensional embedding vector
+* <mark style="color:purple;background-color:purple;">Network that compresses high-dimensional input data such as an image into a lower-dimensional embedding vector</mark>
 
-**Decoder:**
+<mark style="color:purple;background-color:purple;">**Decoder:**</mark>
 
-* Network that decompresses a given embedding vector back to the original domain
+* <mark style="color:purple;background-color:purple;">Network that decompresses a given embedding vector back to the original domain</mark>
 
 
 
@@ -17,4 +17,3 @@
 * The autoencoder is trained to reconstruct an image, after it has passed through the encoder and back out through the decoder
 * The embedding ( Z) is a compression of the original image into a lower-dimensional latent space
 * In practice, the latent space of an autoencoder will usually have more than two dimensions in order to have more freedom to capture greater nuance in the images
-*
