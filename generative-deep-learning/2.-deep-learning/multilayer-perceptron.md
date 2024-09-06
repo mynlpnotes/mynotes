@@ -72,7 +72,7 @@ model.evaluate(x_test, y_test)
 * Generally a batch size between 32 and 256 is used. It is also now recommended practice to increase the batch size as training progresses
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Diagram of the MLP Architecture</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Diagram of the MLP Architecture</p></figcaption></figure>
 *
 
     <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Output from the fit method</p></figcaption></figure>

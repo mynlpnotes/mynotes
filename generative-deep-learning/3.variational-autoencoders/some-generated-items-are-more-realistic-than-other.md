@@ -10,7 +10,7 @@ Overlay the latent space with images of decoded points on a grid
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. We can see that if we pick points uniformly in a bounded space that we define, we’re more likely to sample something that decodes to look like a bag (ID 8) than an ankle boot (ID 9) because the part of the latent space carved out for bags (orange) is larger than the ankle boot area (red)
 2. It is not obvious how we should go about choosing a random point in the latent space, since the distribution of these points is undefined. Technically, we would be justified in choosing any point in the 2D plane! It’s not even guaranteed that points will be centered around (0, 0). This makes sampling from our latent space problematic

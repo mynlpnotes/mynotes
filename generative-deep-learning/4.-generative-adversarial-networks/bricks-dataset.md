@@ -5,7 +5,7 @@
 * When training GANs we rescale the data to the range \[–1, 1] so that we can use the tanh activation function on the final layer of the generator, which tends to provide stronger gradients than the sigmoid function
 *
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * ```bash
   bash scripts/download_kaggle_data.sh joosthazelzet lego-brick-images
   ```
