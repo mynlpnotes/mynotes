@@ -5,14 +5,14 @@
 **Work Tokens:**
 
 * All words are tokenized to lowercase irrespective of whether it appears at start or in the middle of the statement
-* Vocabulary can be very large with some words appearing only once, it may be wise to replace them with some other unknown word to reduce the size of the vocabulary
+* <mark style="color:purple;background-color:purple;">**Vocabulary can be very large with some words appearing only once, it may be wise to replace them with some other unknown word to reduce the size of the vocabulary**</mark>
 * Words can be stemmed
 * Punctuation can either be tokenized or removed
-* Models can never predict words outside the training vocabulary
+* <mark style="color:purple;background-color:purple;">**Models can never predict words outside the training vocabulary**</mark>
 
 **Character tokens:**
 
-* The model may generate sequences of characters that form new words outside of the training vocabulary
+* <mark style="color:purple;background-color:purple;">**The model may generate sequences of characters that form new words outside of the training vocabulary**</mark>
 * Capital letters can either be converted to their lowercase counterparts, or remain as separate tokens
 * Capital letters can either be converted to their lowercase counterparts, or remain as separate tokens
 
