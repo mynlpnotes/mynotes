@@ -112,4 +112,4 @@
 * After enough epochs, the discriminator tends to end up dominating
 *
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

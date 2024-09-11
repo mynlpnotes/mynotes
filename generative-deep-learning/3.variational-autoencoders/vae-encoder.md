@@ -3,7 +3,7 @@
 * Each image is instead mapped to a multivariate normal distribution around a point in the latent space
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * The encoder only needs to map each input to a mean vector and a variance vector and does not need to worry about covariance between dimensions.&#x20;
 * Variational autoencoders assume that there is no correlation between dimensions in the latent space
 * Variance values are always positive, so we actually choose to map to the logarithm of the variance, as this can take any real number in the range (∞ , ∞ )

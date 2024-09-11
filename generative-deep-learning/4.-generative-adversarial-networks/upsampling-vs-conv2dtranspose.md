@@ -12,6 +12,6 @@
 * It has been shown that the Conv2DTranspose method can lead to _artifacts_, or small checkerboard patterns in the output image
 *
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 * Both of these methods—UpSampling2D + Conv2D and Conv2DTranspose—are acceptable ways to transform back to the original image domain.&#x20;
 * It really is a case of testing both methods in your own problem setting and seeing which produces better results.

@@ -14,27 +14,40 @@
 
 * The model may generate sequences of characters that form new words outside of the training vocabulary
 * Capital letters can either be converted to their lowercase counterparts, or remain as separate tokens
-*   Capital letters can either be converted to their lowercase counterparts, or remain as separate tokens
+* Capital letters can either be converted to their lowercase counterparts, or remain as separate tokens
 
-    ```python
-    def pad_punctuation(s):
-        s = re.sub(f"([{string.punctuation}])", r' \1 ', s)
-        s = re.sub(' +', ' ', s)
-        return s
 
-    text_data = [pad_punctuation(x) for x in filtered_data] 
 
-    text_ds = tf.data.Dataset.from_tensor_slices(text_data).batch(32).shuffle(1000) 
+```python
+def pad_punctuation(s):
+    s = re.sub(f"([{string.punctuation}])", r' \1 ', s)
+    s = re.sub(' +', ' ', s)
+    return s
 
-    vectorize_layer = layers.TextVectorization( 
-        standardize = 'lower',
-        max_tokens = 10000,
-        output_mode = "int",
-        output_sequence_length = 200 + 1,
-    )
+text_data = [pad_punctuation(x) for x in filtered_data] 
 
-    vectorize_layer.adapt(text_ds) 
-    vocab = vectorize_layer.get_vocabulary()
-    ```
+text_ds = tf.data.Dataset.from_tensor_slices(text_data).batch(32).shuffle(1000) 
+
+vectorize_layer = layers.TextVectorization( 
+    standardize = 'lower',
+    max_tokens = 10000,
+    output_mode = "int",
+    output_sequence_length = 200 + 1,
+)
+
+vectorize_layer.adapt(text_ds) 
+vocab = vectorize_layer.get_vocabulary()
+```
+
 * Pad the punctuation marks, to treat them as separate words
+* Create a Keras TextVectorization layer to convert text to lowercase, give the most prevalent 10,000 words a corresponding integer token, and trim or pad the sequence to 201 tokens long
+* Apply the TextVectorization layer to the training data
+* Apply the TextVectorization layer to the training data
+* 0 - Stop token
+* 1 - Unknown words that fall outside the vocabulary
 *
+
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Recipe tokenized</p></figcaption></figure>
+*
+
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Vocabulary of the text vectorization layer</p></figcaption></figure>
