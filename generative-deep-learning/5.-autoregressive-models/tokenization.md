@@ -40,8 +40,15 @@ vocab = vectorize_layer.get_vocabulary()
 ```
 
 * Pad the punctuation marks, to treat them as separate words
+* <mark style="color:purple;background-color:purple;">**Padding function: Hello, world! How are you? -> Hello , world ! How are you ?**</mark>
+* <mark style="color:purple;background-color:purple;">**Batches:**</mark>
+* <mark style="color:purple;background-color:purple;">**100 records loaded**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ shuffled.</mark>
+* <mark style="color:purple;background-color:purple;">**32 records taken from buffer → passed to the neural network.**</mark>
+* <mark style="color:purple;background-color:purple;">**32 new records added to buffer (to maintain buffer size of 100).**</mark>
+* <mark style="color:purple;background-color:purple;">**Shuffling again within the buffer.**</mark>
+* <mark style="color:purple;background-color:purple;">**Repeat until all 1000 records are processed.**</mark>
 * Create a Keras TextVectorization layer to convert text to lowercase, give the most prevalent 10,000 words a corresponding integer token, and trim or pad the sequence to 201 tokens long
-* Apply the TextVectorization layer to the training data
+* <mark style="color:purple;background-color:purple;">**If the sentence lenght is 150 then it will be padded, if its lenght is 250 then it will be truncated**</mark>
 * Apply the TextVectorization layer to the training data
 * 0 - Stop token
 * 1 - Unknown words that fall outside the vocabulary

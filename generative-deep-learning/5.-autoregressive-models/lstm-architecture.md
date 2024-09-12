@@ -5,7 +5,7 @@
 ```
 Layer (type)	            Output shape	   Param #
 InputLayer                  (None, None)           0
-Embedding                   (None, None, 100)      1,000,000
+Embedding                   (None, None, 100)      1,000,000 
 LSTM                        (None, None, 128)      117,248
 Dense                       (None, None, 10000)    1,290,000
 Total params                                       2,407,248
@@ -14,3 +14,4 @@ Non-trainable params                               0
 ```
 
 * Notice that the Input layer does not need us to specify the sequence length in advance. Both the batch size and the sequence length are flexible (hence the (None, None) shape). This is because all downstream layers are agnostic to the length of the sequence being passed through
+* <mark style="color:purple;background-color:purple;">**Embedding layer parameters: vocab\_size \* embedding\_dim = 10,000 \* 100 = 1,000,000**</mark>

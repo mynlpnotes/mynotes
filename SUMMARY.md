@@ -94,6 +94,7 @@
     * [Analysis of the CGAN](generative-deep-learning/4.-generative-adversarial-networks/analysis-of-the-cgan.md)
   * [5. Autoregressive Models](generative-deep-learning/5.-autoregressive-models/README.md)
     * [LSTM](generative-deep-learning/5.-autoregressive-models/lstm.md)
+    * [Vanishing Gradient Problem](generative-deep-learning/5.-autoregressive-models/vanishing-gradient-problem.md)
     * [The Recipes Dataset](generative-deep-learning/5.-autoregressive-models/the-recipes-dataset.md)
     * [Working with Text Data](generative-deep-learning/5.-autoregressive-models/working-with-text-data.md)
     * [Tokenization](generative-deep-learning/5.-autoregressive-models/tokenization.md)

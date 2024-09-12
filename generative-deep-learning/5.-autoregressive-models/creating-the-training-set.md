@@ -13,4 +13,4 @@
 
     train_ds = text_ds.map(prepare_inputs)
     ```
-* Create the training set consisting of recipe tokens (the input) and the same vector shifted by one token (the target)
+* <mark style="color:purple;background-color:purple;">**Create the training set consisting of recipe tokens (the input) and the same vector shifted by one token (the target)**</mark>

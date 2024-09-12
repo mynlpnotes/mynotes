@@ -5,7 +5,8 @@
     ```bash
     bash scripts/download_kaggle_data.sh hugodarwood epirecipes
     ```
-*   Loading the data:
+* Loading the data:
+*   <mark style="color:purple;background-color:purple;">**It has list of dictionary which has title, directions etc**</mark>
 
     ```python
     with open('/app/data/epirecipes/full_format_recipes.json') as json_data:
