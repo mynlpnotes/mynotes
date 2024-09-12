@@ -4,7 +4,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="450"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="450"><figcaption></figcaption></figure>
 
 1. The hidden state of the previous timestep, ℎt-1, and the current word embedding, xt, are concatenated and passed through the _forget_ gate. This gate is simply a dense layer with a sigmoid activation function. The resulting vector, ft, has length equal to the number of units in the cell and contains values between 0 and 1 that determine how much of the previous cell state, Ct-1, should be retained
 2. The concatenated vector is also passed through an _input_ gate that, like the forget gate, is a dense layer with weights matrix Wi, bias bi, and a sigmoid activation function. The output from this gate, It, has length equal to the number of units in the cell and contains values between 0 and 1 that determine how much new information will be added to the previous cell state, Ct-1.

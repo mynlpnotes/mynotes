@@ -14,7 +14,7 @@ Types of mask:
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="450"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="450"><figcaption></figcaption></figure>
 * The initial masked convolutional layer (i.e., the one that is applied directly to the input image) cannot use the central pixel, because this is precisely the pixel we want the network to guess!
 * However, subsequent layers can use the central pixel because this will have been calculated only as a result of information from preceding pixels in the original input image
 *

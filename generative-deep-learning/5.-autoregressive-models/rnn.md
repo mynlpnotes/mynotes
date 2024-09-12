@@ -8,8 +8,8 @@ Working of RNN:
 * This recurrent process continues until the end of the sequence. Once the sequence is finished, the layer outputs the final hidden state of the cell hn, which is then passed on to the next layer of the network.
 *
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="198"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="198"><figcaption></figcaption></figure>
 * It’s important to remember that all of the cells in this diagram share the same weights (as they are really the same cell)
 *
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

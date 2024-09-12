@@ -15,5 +15,5 @@ lstm.fit(train_ds, epochs=25)
 * The `Embedding` layer requires two parameters, the size of the vocabulary (10,000 tokens) and the dimensionality of the embedding vector (100)
 *
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="300"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 

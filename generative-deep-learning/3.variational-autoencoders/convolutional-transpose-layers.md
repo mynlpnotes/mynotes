@@ -4,4 +4,4 @@
 * <mark style="color:purple;background-color:purple;">**The strides parameter determines the internal zero padding between pixels in the image**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
