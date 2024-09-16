@@ -1,6 +1,6 @@
 # The Jacobian Determinant
 
-* The Jacobian of a function Z=f(x) is the matrix of its first-order partial derivatives
+* The Jacobian of a function Z=f(x) is the <mark style="color:purple;background-color:purple;">**matrix of its first-order partial derivatives**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
