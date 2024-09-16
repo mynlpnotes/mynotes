@@ -9,7 +9,7 @@
 * But if data is image/video/audio <mark style="color:purple;background-color:purple;">**unstructured data, then we use DL**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **AI**
 

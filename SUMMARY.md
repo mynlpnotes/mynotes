@@ -124,3 +124,8 @@
     * [The Two Moons Dataset](generative-deep-learning/6.-normalizing-flow-models/the-two-moons-dataset.md)
     * [Coupling Layers](generative-deep-learning/6.-normalizing-flow-models/coupling-layers.md)
     * [Passing data through a coupling layer](generative-deep-learning/6.-normalizing-flow-models/passing-data-through-a-coupling-layer.md)
+    * [Stacking coupling layers](generative-deep-learning/6.-normalizing-flow-models/stacking-coupling-layers.md)
+    * [Training the RealNVP Model](generative-deep-learning/6.-normalizing-flow-models/training-the-realnvp-model.md)
+    * [GLOW](generative-deep-learning/6.-normalizing-flow-models/glow.md)
+  * [7. Energy-Based Models](generative-deep-learning/7.-energy-based-models/README.md)
+    * [Boltzman Distribution](generative-deep-learning/7.-energy-based-models/boltzman-distribution.md)

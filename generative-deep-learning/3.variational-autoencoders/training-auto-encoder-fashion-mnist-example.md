@@ -111,5 +111,5 @@ predictions = autoencoder.predict(example_images)
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Output of prediction</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Output of prediction</p></figcaption></figure>
 

@@ -54,7 +54,7 @@ vocab = vectorize_layer.get_vocabulary()
 * 1 - Unknown words that fall outside the vocabulary
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Recipe tokenized</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Recipe tokenized</p></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vocabulary of the text vectorization layer</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Vocabulary of the text vectorization layer</p></figcaption></figure>
