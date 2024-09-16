@@ -123,3 +123,4 @@
     * [RealNVP](generative-deep-learning/6.-normalizing-flow-models/realnvp.md)
     * [The Two Moons Dataset](generative-deep-learning/6.-normalizing-flow-models/the-two-moons-dataset.md)
     * [Coupling Layers](generative-deep-learning/6.-normalizing-flow-models/coupling-layers.md)
+    * [Passing data through a coupling layer](generative-deep-learning/6.-normalizing-flow-models/passing-data-through-a-coupling-layer.md)
