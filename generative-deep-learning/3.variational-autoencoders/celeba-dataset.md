@@ -5,7 +5,7 @@
 * bash scripts/download\_kaggle\_data.sh jessicali9530 celeba-dataset
 *
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     **image\_dataset\_from\_directory:**
 * We use the Keras function image\_dataset\_from\_directory to create a TensorFlow Dataset pointed at the directory where the images are stored

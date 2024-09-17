@@ -4,4 +4,4 @@
 * If we stack coupling layers, flipping the masking each time, we can build a neural network that is able to transform the whole input tensor
 *
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

@@ -10,5 +10,5 @@ reconstructions = decoder.predict(sample)
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Generated Images</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Generated Images</p></figcaption></figure>
 

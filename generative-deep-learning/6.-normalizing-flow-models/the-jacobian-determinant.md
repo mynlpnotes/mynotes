@@ -3,7 +3,7 @@
 * The Jacobian of a function Z=f(x) is the <mark style="color:purple;background-color:purple;">**matrix of its first-order partial derivatives**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If we take the partial derivative of z1 with respect to x1 , we obtain 1/3 . If we take the partial derivative of z1 with respect to x2 , we obtain 0. Similarly, if we take the partial derivative of z2 with respect to x1 , we obtain 0. Lastly, if we take the partial derivative of z2 with respect to x2 , we obtain 1/2 .
 *
 
