@@ -21,9 +21,3 @@
     <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If we want to transform our complex probability distribution over the data into a simpler distribution that we can sample from, we must ensure that it integrates to 1
 * <mark style="color:purple;background-color:purple;">**We need to multiply the new probability distribution by a normalization factor that is equal to the relative change in area**</mark>
-
-
-
-* <mark style="color:purple;background-color:purple;">Encoder learns the transformations like scaling, shifting, and other adjustments to map the data from the latent space (simple distribution) to the data space (complex distribution).</mark>
-* <mark style="color:purple;background-color:purple;">Decoder learns the inverse transformations to bring the data back from the complex data space to the simpler latent space.</mark>
-* <mark style="color:purple;background-color:purple;">Change of variables ensures that the probabilities are adjusted properly during these transformations, making sure the mapping between encoder and decoder remains mathematically valid.</mark>

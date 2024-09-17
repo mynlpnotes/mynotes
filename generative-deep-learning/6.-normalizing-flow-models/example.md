@@ -1,0 +1,6 @@
+# Example
+
+* In normalizing flow models, the key idea is to <mark style="color:purple;background-color:purple;">**map complex data distributions (such as images) into a simpler, well-understood normal distribution in latent space.**</mark> This is achieved through a series of invertible transformations applied by the encoder. The result is that the complex structure of the original data is transformed into a latent space that follows a standard normal distribution.
+* This transformation makes sampling easier, as <mark style="color:purple;background-color:purple;">**you can simply draw points from a normal distribution and pass them through the decoder to generate realistic images**</mark>. The normal distribution is much simpler to sample from compared to the complex real data distribution.
+* The change of variables formula allows you to compute how the probability of the data changes during these transformations, enabling efficient probability estimation for the data. This structure also makes interpolation and inference easier, allowing smooth transitions between latent points to produce meaningful variations in generated images.
+* Thus, transforming the data into a normal distribution in latent space simplifies both generation and likelihood estimation while maintaining the flexibility needed to capture complex data distributions.

@@ -117,6 +117,7 @@
     * [Mixture Distributions](generative-deep-learning/5.-autoregressive-models/mixture-distributions.md)
   * [6. Normalizing Flow Models](generative-deep-learning/6.-normalizing-flow-models/README.md)
     * [Normalizing Flows](generative-deep-learning/6.-normalizing-flow-models/normalizing-flows.md)
+    * [Example](generative-deep-learning/6.-normalizing-flow-models/example.md)
     * [Change of Variables](generative-deep-learning/6.-normalizing-flow-models/change-of-variables.md)
     * [The Jacobian Determinant](generative-deep-learning/6.-normalizing-flow-models/the-jacobian-determinant.md)
     * [The Change of Variables Equation](generative-deep-learning/6.-normalizing-flow-models/the-change-of-variables-equation.md)
