@@ -141,3 +141,5 @@
     * [Generating new observations using the EBM](generative-deep-learning/7.-energy-based-models/generating-new-observations-using-the-ebm.md)
   * [8. Diffusion Models](generative-deep-learning/8.-diffusion-models/README.md)
     * [Introduction](generative-deep-learning/8.-diffusion-models/introduction.md)
+    * [Denoising Diffusion Models (DDM)](generative-deep-learning/8.-diffusion-models/denoising-diffusion-models-ddm.md)
+    * [Flowers Dataset](generative-deep-learning/8.-diffusion-models/flowers-dataset.md)
