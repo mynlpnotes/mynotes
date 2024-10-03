@@ -22,4 +22,5 @@
     * The data is now completely transformed into noise: $$[ x_3 = 0 \cdot x_0 + \sqrt{1} \epsilon_3 = \epsilon_3 ]$$
 * **Summary of Noise Addition**:
   * At each step, the contribution of $$( x_0 )$$ decreases while the contribution of the Gaussian noise $$( \epsilon )$$ increases.
+  * Note here that each time we adding noise to original image x0&#x20;
   * By the final step, the data has been completely converted into noise.
