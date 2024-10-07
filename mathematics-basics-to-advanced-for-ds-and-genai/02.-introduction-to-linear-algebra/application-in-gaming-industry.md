@@ -11,7 +11,7 @@
 * This is also done using vector calculations
 *
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 * If there is a box which is being moved by 2 person
 * It moves to be moved to 3,3
 * Both people can move it the right and then up

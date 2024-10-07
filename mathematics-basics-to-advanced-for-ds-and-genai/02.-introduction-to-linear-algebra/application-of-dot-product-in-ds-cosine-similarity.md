@@ -8,10 +8,10 @@
 * It calculates the cosine of the angle between 2 vectors providing a similarity score that can range -1 (dissimilar) to 1 (complete similar)
 *
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Example:**
 
 *   Recommendation system
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>

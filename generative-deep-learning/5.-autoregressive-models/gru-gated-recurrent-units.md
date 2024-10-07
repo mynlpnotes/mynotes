@@ -7,9 +7,7 @@ Key differences from LSTM:
 
 **Updation of hidden state:**
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. The hidden state of the previous timestep, ℎt-1, and the current word embedding, xt, are concatenated and used to create the _reset_ gate. This gate is a dense layer with a sigmoid activation function. The resulting vector, rt, has length equal to the number of units in the cell and stores values between 0 and 1 that determine how much of the previous hidden state, ℎt-1, should be carried forward into the calculation for the new beliefs of the cell.
 2. The reset gate is applied to the hidden state, ℎt-1, and concatenated with the current word embedding, xt. This vector is then fed to a dense layer with a tanh activation function to generate a vector, ℎ˜t, that stores the new beliefs of the cell. It has length equal to the number of units in the cell and stores values between –1 and 1.
