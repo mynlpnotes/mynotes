@@ -29,7 +29,21 @@
     * \[70, 72, 75, 73] -> This also represents vector w.r.t time -> 4 dimension
   * In DS context it does not necessarily have a physical direction
   * In DS, a vector represents a collection of values
-  * A is of 2 dimension here,&#x20;
+  * A is of 2 dimension here, do see this in physics we define a coordinate system
+  * We can calculate distance between origin and A using Pythagoras theorem
+  * Similarly we can plot B
+  * Similarly we can do for C using 3 dimensions
   *
 
-      <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* Each record can be represented as a vector
+* Lets plot the points with IQ and no. of hours
+* If a point is below line y then it will be fail, if its above then it will be pass
+* So every datapoint in dataset is represented as a vector
+* We can do this for any no. of dimension
+*
+
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

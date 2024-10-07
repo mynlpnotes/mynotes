@@ -1,0 +1,17 @@
+# Application of Dot Product in DS - Cosine similarity
+
+* Also used in Gen AI -> RAG
+
+1. **Cosine similarity:**
+
+* It is a measure used to determine how similar 2 vectors are
+* It calculates the cosine of the angle between 2 vectors providing a similarity score that can range -1 (dissimilar) to 1 (complete similar)
+*
+
+    <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Example:**
+
+*   Recommendation system
+
+    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

@@ -27,4 +27,4 @@
 * Repeat the dataset five times to increase the epoch length and batch the data into groups of 64 images
 *
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
