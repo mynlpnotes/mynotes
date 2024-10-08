@@ -5,4 +5,4 @@
 * We can visualize this in 2D coordinates
 *   This can also be done for 3D vectors
 
-    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
