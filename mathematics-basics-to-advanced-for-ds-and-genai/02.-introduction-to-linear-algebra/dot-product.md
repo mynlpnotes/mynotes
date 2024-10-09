@@ -1,6 +1,6 @@
 # Dot Product
 
-* Dot product of 2 vectors results in a scalar and is calculated as the sum of the products of their corresponding components
+* Dot product of 2 vectors <mark style="color:purple;background-color:purple;">**results in a scalar**</mark> and is calculated as the sum of the products of their corresponding components
 * Here A.B = 23 is a scalar value
 * We usually do transpose of the other vector during this operation
 * This transpose technique is used in ML, DL as well

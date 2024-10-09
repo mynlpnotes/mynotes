@@ -4,7 +4,7 @@
 
 1. **Cosine similarity:**
 
-* It is a measure used to determine how similar 2 vectors are
+* It is a measure used to determine <mark style="color:purple;background-color:purple;">**how similar 2 vectors are**</mark>
 * It calculates the cosine of the angle between 2 vectors providing a similarity score that can range -1 (dissimilar) to 1 (complete similar)
 *
 

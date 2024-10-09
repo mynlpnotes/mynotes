@@ -1,7 +1,7 @@
 # Unit Vector
 
 * We represent using ^ symbol
-* A unit vector has a magnitude of 1
+* A unit vector has a <mark style="color:purple;background-color:purple;">**magnitude of 1**</mark>
 * i^ is a unit vector towards x axis
 * j^ is a unit vector towards y axis
 * If we say 3 unit vector towards x and 3 unit vector towards y, then it can be represented using 3i^ + 3j^
