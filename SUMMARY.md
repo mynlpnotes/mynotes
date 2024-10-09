@@ -192,3 +192,5 @@
     * [Vector Transformation](mathematics-basics-to-advanced-for-ds-and-genai/03.-introduction-to-functions-and-transformations/vector-transformation.md)
     * [Vector Transformation - Example](mathematics-basics-to-advanced-for-ds-and-genai/03.-introduction-to-functions-and-transformations/vector-transformation-example.md)
     * [Linear Transformation](mathematics-basics-to-advanced-for-ds-and-genai/03.-introduction-to-functions-and-transformations/linear-transformation.md)
+    * [Example that don't follow linear transformation](mathematics-basics-to-advanced-for-ds-and-genai/03.-introduction-to-functions-and-transformations/example-that-dont-follow-linear-transformation.md)
+    * [Why Linear Transformation](mathematics-basics-to-advanced-for-ds-and-genai/03.-introduction-to-functions-and-transformations/why-linear-transformation.md)
