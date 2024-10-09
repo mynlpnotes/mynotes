@@ -6,4 +6,4 @@
 * Here we have a 3 dimension vector, when we map it to function f then we get a 2 dimension vector
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

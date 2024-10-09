@@ -2,7 +2,7 @@
 
 *   In element wise multiplication, corresponding elements of 2 vectors are multiplied to form a new vector of the same dimension
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Application in DS:
 
@@ -13,4 +13,4 @@ Application in DS:
 * In LSTM RNN and GRU RNN in the architecture we will be using elementwise multiplication and elementwise addition for concepts such as forget fate and input gate
 *
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

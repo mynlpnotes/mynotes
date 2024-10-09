@@ -20,7 +20,7 @@
 * If there are 500 dimensions then using the linear algebra concepts used in dimensionality reduction, it will can even convert it into 2 dimension
 *
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **ML and AI:**
 
@@ -33,14 +33,14 @@
 * In GPUs we have core and it is faster coz it perform all the vector operations parallely
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **Computer Graphics:**
 
 * To represent an image, suppose RGB&#x20;
 *   And if we want to perform some operations like scaling, rotate or change it to black and white, then it can be done using linear algebra using transformations
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. **Optimization:**
 
@@ -51,4 +51,4 @@
 * We will try to maximize the function and minimize the error
 *   Here gradient descent will get applied for optimization
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
