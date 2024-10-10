@@ -2,12 +2,12 @@
 
 **Descriptive Statistics:**
 
-* Involves methods for summarizing and organizing data to make it understandable
+* <mark style="color:purple;background-color:purple;">**Involves methods for summarizing and organizing data to make it understandable**</mark>
 * Helps to describe the basic features of the data in study
 
 1. Measures of central tendency -> Mean, median and mode
 2. Measures of dispersion -> Variance, standard deviation
-3. Data distibution:
+3. Data distribution:
    1. Histogram
    2. Box plot
    3. Pie chart
@@ -18,7 +18,7 @@
 
 **Inferential Statistics:**
 
-* Involves methods for making predictions or inference about a population based on a sample of data
+* <mark style="color:purple;background-color:purple;">**Involves methods for making predictions or inference about a population based on a sample of data**</mark>
 * It allows for hypothesis testing, estimation and drawing estimation
 
 1. Hypothesis testing
@@ -29,4 +29,3 @@
    2. t test
    3. Anova -> f test
    4. Chi square
-   5.

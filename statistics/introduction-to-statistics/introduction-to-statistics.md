@@ -1,8 +1,13 @@
 # Introduction to Statistics
 
-* Statistics is the science of collecting, organizing and analyzing data
+* <mark style="color:purple;background-color:purple;">**Statistics is the science of collecting, organizing and analyzing data**</mark>
 
+**Different Roles:**
 
+* Data Analyst
+* Business Analyst
+* Data Scientist
+* Product Managers
 
 **Data:**&#x20;
 
@@ -16,6 +21,6 @@
 
 **House price prediction:**
 
-*   As a data analyst we can create a report or visualization, based on which meaningful decisions can be taken
+*   <mark style="color:purple;background-color:purple;">**As a data analyst we can create a report or visualization, based on which meaningful decisions can be taken**</mark>
 
     <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
