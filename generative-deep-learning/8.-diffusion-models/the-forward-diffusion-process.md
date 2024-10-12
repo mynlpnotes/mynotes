@@ -4,7 +4,7 @@
 * We can define a function that adds a small amount of Gaussian noise with variance βt to an image Xt-1 to generate a new image . If we keep applying this function, we will generate a sequence of progressively noisier images ( x0, x1,...xT)
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * εt-1 is a standard Gaussian with zero mean and unit variance
 *
 

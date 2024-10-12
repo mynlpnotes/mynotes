@@ -26,3 +26,9 @@
 
 * Divide the population into clusters, randomly selecting clusters, then sampling all the members from the selected clusters
 * Randomly selecting several schools from a district, and surveying all teachers within those schools
+
+5. Multi stage sampling:
+
+* Divide the population into clusters
+* Randomly selecting clusters and then sampling all the members from the selected clusters
+* Example: Randomly selecting cities, from each selected cities randomly selecting households to survey

@@ -222,3 +222,6 @@
     * [Population and Sample data](statistics/introduction-to-statistics/population-and-sample-data.md)
     * [Types of Sampling Techniques](statistics/introduction-to-statistics/types-of-sampling-techniques.md)
     * [Probability Sampling](statistics/introduction-to-statistics/probability-sampling.md)
+    * [Non-Probability Sampling](statistics/introduction-to-statistics/non-probability-sampling.md)
+    * [Types of Data](statistics/introduction-to-statistics/types-of-data.md)
+    * [Scales of Measurement of Data](statistics/introduction-to-statistics/scales-of-measurement-of-data.md)
