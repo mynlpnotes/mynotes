@@ -6,6 +6,6 @@
 * If X is an element of X, then f(X) is the corresponding element in Y
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In the example above we applied a function which mapped a 3dimension vector to 2dimension
 * In dimensionality reduction also we use such kind of function which are known as transformation
