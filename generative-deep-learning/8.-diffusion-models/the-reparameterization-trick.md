@@ -6,6 +6,6 @@
 * We therefore have a way to jump from the original image to any step of the forward diffusion process
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We can add two Gaussians to obtain a new Gaussian
 * We therefore have a way to jump from the original image to any step of the forward diffusion process

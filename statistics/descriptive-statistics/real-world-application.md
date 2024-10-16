@@ -6,4 +6,4 @@
 * For gender we can use mode, as its nominal data
 *   For degree also, we can use mode
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

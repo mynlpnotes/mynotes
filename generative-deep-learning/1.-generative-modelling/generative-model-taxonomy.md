@@ -1,6 +1,6 @@
 # Generative Model Taxonomy
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Three possible approaches:
 
@@ -16,5 +16,4 @@ Three possible approaches:
 
 3. **Explicit Approximate models:**
 
-* Include variational autoencoders,  which introduce a latent variable and optimize an approximation of the joint density function
-
+* Include variational autoencoders, which introduce a latent variable and optimize an approximation of the joint density function
