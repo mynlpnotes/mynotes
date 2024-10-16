@@ -13,12 +13,12 @@
 * x = 9
 *
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Find 25th percentile from the distribution
 * Since its coming as 3.75,so we will take average of 3rd and 4th number
 *   ( 3 + 4) / 2 = 3.75
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Quartiles:**
 

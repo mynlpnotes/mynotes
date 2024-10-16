@@ -4,7 +4,7 @@
 * It provides a sense of how much the values in a dataset vary
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Characteristics:**
 

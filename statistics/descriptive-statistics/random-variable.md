@@ -5,7 +5,7 @@
 * Then we use different values of x to compute y
 * <mark style="color:purple;background-color:purple;">**Random variable is a function, whose values are derived from different process or experiments**</mark>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Discrete Random Variable:**
 

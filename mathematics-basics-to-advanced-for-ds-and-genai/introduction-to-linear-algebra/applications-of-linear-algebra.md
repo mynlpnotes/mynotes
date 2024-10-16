@@ -33,14 +33,14 @@
 * In GPUs we have core and it is faster coz it perform all the vector operations parallelly
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **Computer Graphics:**
 
 * <mark style="color:purple;background-color:purple;">**To represent an image**</mark>, suppose RGB&#x20;
 *   And if we want to perform some operations like <mark style="color:purple;background-color:purple;">**scaling, rotate or change it to black and white**</mark>, then it can be done using linear algebra using transformations
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. **Optimization:**
 
@@ -51,4 +51,4 @@
 * We will try to maximize the function and minimize the error
 *   Here <mark style="color:purple;background-color:purple;">**gradient descent will get applied for optimization**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
