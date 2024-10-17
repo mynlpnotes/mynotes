@@ -1,6 +1,6 @@
 # Pearson Correlation Coeffecient
 
-* \-1 to +1
+* Limits the value between -1 to +1
 *
 
     <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
