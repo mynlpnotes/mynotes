@@ -8,11 +8,11 @@
 * If x = 0 then where does the line meet the y axes
 *
 
-    <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 * Can also be written as
 *
 
-    <figure><img src="../.gitbook/assets/image (12).png" alt="" width="292"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 
 **Plane:**
 
@@ -20,13 +20,13 @@
 * We don't draw a straight line, we draw a plane
 *
 
-    <figure><img src="../.gitbook/assets/image (13).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **n-dimensional plane:**
 
 *
 
-    <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Passing throught the origin:**
 

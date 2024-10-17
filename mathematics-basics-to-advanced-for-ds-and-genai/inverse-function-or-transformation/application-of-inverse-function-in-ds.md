@@ -6,7 +6,7 @@
 * But if we scale down them to same scale then training the model will be easier
 *
 
-    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Standardization:
 * Means = 0 and standard deviation = 1
 *
