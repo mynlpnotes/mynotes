@@ -5,4 +5,4 @@
 * The mean, median, mode are perfectly at the center
 *   Also, if we do Q3-Q2 \~ Q2-Q1
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>

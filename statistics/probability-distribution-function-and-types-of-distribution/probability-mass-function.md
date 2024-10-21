@@ -4,7 +4,7 @@
 * The probability of each outcome is same in this case
 *   In CDF, we need to combine the frequencies from L to R
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 What is the probability of getting less than 2 on dice?
 

@@ -1,8 +1,8 @@
 # Different Distribution Types
 
-*
+*   Every feature follows some distribution
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Bernoulli Distribution -> Outcomes are binary (pmf) -> Discrete Random variable
 2. Binomial Distribution -> pmf

@@ -8,7 +8,7 @@
 * If we do near the end of the curve, then the slope will be small
 *
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 * Probability Density = Gradient of Cumulative Density Function
 
 **Properties:**
@@ -18,4 +18,4 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
