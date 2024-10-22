@@ -11,4 +11,4 @@ What is the probability of finding exactly 2 defective items in a sample of 10?
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

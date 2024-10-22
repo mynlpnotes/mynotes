@@ -30,7 +30,7 @@
   * Using Feature engineering we can give ranks to this categories
   *
 
-      <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

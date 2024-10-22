@@ -6,7 +6,7 @@
 * If we want to know where 20 falls, then we knows it falls below 2SD
 *   Using Z score we can find, then exact distance
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Characteristics:**
 
