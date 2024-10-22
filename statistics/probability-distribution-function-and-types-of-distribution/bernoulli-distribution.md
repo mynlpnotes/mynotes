@@ -6,4 +6,4 @@
 * Used to model binary outcomes, such as coin flip or a yes/no question
 *
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
