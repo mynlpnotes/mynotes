@@ -307,3 +307,4 @@
     * [Model Selection](projects/salary-suggestions/model-selection.md)
     * [Model Training](projects/salary-suggestions/model-training.md)
     * [Model Evaluation](projects/salary-suggestions/model-evaluation.md)
+  * [Yake](projects/yake.md)
